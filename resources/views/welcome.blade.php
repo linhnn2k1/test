@@ -1,0 +1,1 @@
+<a href="{{route('customers.index')}}">quản lý khách hàng</a>
